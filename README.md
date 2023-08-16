@@ -5,7 +5,7 @@
 
 I'm interested in Watching Movies!🎬 🍿
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=iOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
