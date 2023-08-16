@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Gmail-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 👋 Hi, I am Mobile App Developer using IOS and Android.
 🚀 I usually use Flutter to make cross-platform apps.
 
