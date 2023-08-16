@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Gmail-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 👋 Hi, I am Mobile App Developer using IOS and Android.
 🚀 I usually use Flutter to make cross-platform apps.
