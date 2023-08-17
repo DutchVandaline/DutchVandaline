@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/developerha0013@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-
-## Jason Park
+## Jason Park<br>
 
 👋 Hi, I am Mobile App Developer using IOS and Android.<br>
 🚀 I usually use Flutter to make cross-platform apps.<br>
@@ -10,7 +9,6 @@
 </div>
 
 ---
-
 
 <img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=greywhite">
 
