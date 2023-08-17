@@ -25,10 +25,6 @@
 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=Rasa&logoColor=white"/>
 
-
- <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=DutchVandaline&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <!---
 most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutchVandaline&layout=compact&theme=gruvbox"> 
