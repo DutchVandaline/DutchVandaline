@@ -9,6 +9,9 @@
 
 ---
 
+
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=greywhite">
+
 ### Platforms
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><br>
@@ -23,7 +26,7 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=Rasa&logoColor=white"/>
 
 
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=greywhite"> <br>
+ <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=DutchVandaline&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!---
