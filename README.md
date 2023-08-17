@@ -11,7 +11,7 @@
 
 ---
 
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=black">
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=dark">
 
 ### Languages / Platforms
 
