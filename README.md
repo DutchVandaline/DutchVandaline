@@ -2,7 +2,7 @@
 
 👋 Hi, I am Mobile App Developer using IOS and Android.<br>
 🚀 I usually use Flutter to make cross-platform apps.<br>
-I'm interested in Watching Movies!🎬 🍿
+🎬 I'm interested in Watching Movies!
 
 ### Platforms
 
