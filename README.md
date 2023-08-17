@@ -19,6 +19,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=greywhite"> <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DutchVandaline&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 most used languages
