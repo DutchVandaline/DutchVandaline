@@ -20,16 +20,12 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=gruvbox">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutchVandaline&layout=compact"> 
 
 
 
 </div>
 
-<!--
-Most used Language / stat
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutchVandaline&layout=compact"> 
---->
 
 
 
