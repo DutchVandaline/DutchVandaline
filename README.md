@@ -1,4 +1,3 @@
-<div align=center>
 <img src="https://img.shields.io/badge/developerha0013@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 👋 Hi, I am Mobile App Developer using IOS and Android.<br>
@@ -20,16 +19,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=gruvbox"> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutchVandaline&layout=compact&theme=gruvbox"> 
-
-
-
-</div>
-
-
-
 
 <!---
+most used languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutchVandaline&layout=compact&theme=gruvbox"> 
 DutchVandaline/DutchVandaline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
