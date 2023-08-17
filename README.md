@@ -1,8 +1,11 @@
+<div algin = "center"/>
 <img src="https://img.shields.io/badge/developerha0013@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 👋 Hi, I am Mobile App Developer using IOS and Android.<br>
 🚀 I usually use Flutter to make cross-platform apps.<br>
 🎬 I'm interested in Watching Movies!
+
+</div>
 
 ### Platforms
 
