@@ -11,7 +11,7 @@
 
 ---
 
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=noctis_minimus">
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=shadow_green">
 
 ### Languages / Platforms
 
