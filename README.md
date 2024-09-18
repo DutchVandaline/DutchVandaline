@@ -1,11 +1,13 @@
 <div align="center">
   
   ### Jason Park
-<img src="https://img.shields.io/badge/developerha0013@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<br>
 <a href="https://dutchvandaline.github.io/">
     <img src="https://img.shields.io/badge/Github Blog-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=developerha0013@gmail.com">
+    <img src="https://img.shields.io/badge/developerha0013@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<br>
 
 
 
