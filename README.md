@@ -12,8 +12,8 @@
 
 
 
-👋 Hi, I am Mobile App Developer using IOS and Android.<br>
-🚀 I usually use Flutter to make cross-platform apps.<br>
+👋 Hi, I am Flutter Developer using IOS and Android.<br>
+🚀 These days, I build Artificial Intelligence models.<br>
 🎬 I'm interested in watching Movies!
 
 <a href="https://www.buymeacoffee.com/PequodApp" target="_blank">
