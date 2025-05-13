@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Jason Park
+  ## Jason Park
 <a href="https://dutchvandaline.github.io/">
     <img src="https://img.shields.io/badge/Github Blog-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
