@@ -12,7 +12,7 @@
 
 
 
-👋 Hi, I am Flutter Developer using IOS and Android.<br>
+👋 Hi, I am an app developer using Flutter.<br>
 🚀 These days, I build Artificial Intelligence models.<br>
 🎬 I'm interested in watching Movies!
 
