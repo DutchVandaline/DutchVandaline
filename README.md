@@ -25,7 +25,7 @@
 
 ---
 
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=greywhite">
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=DutchVandaline&show_icons=true&theme=dark">
 
 ### Languages / Platforms
 
