@@ -26,7 +26,7 @@
 
 ### 🏆 Achievements
 
-<a href="https://medium.com/@developerha0013/achievement-unlocked-gpu-killer-69fc48fa7ac8" target="_blank" title="GPU-KILLER">
+<a href="https://medium.com/@developerha0013/achievement-unlocked-gpu-killer-69fc48fa7ac8" target="_blank" title="GPU-KILLER; Killed 3090 while running AI project">
   <img src="https://github.com/user-attachments/assets/16396fd7-c2ea-402f-ac81-1d4a8aa3c436" alt="My Achievements" width="80" style="max-width:100%; height:auto;"/>
 </a>
 
